@@ -1,4 +1,4 @@
-package com.perfectomobile.web-community-pom;
+package com.perfectomobile.web_community_pom;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
