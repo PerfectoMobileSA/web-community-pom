@@ -1,4 +1,4 @@
-package com.perfectomobile.webCommunityPOM;
+package com.perfectomobile.web-community-pom;
 
 import java.io.IOException;
 import java.util.HashMap;
